@@ -1,5 +1,4 @@
-### Hi there 👋
-Hi there, I'm Enrique Gomez Naar
+### Hi there 👋 I'm Enrique Gomez Naar
 
 
 🎓 I’m Full Stack Web Developer
