@@ -8,4 +8,6 @@
 🔭 I’m searching for my first job in the tech industry.
 
 📫 How to reach me: enriquegomeznaar@gmail.com
+    
+:EMOJICODE::eyes: Linkedin: https://www.linkedin.com/in/enrique-gomez-naar-fullstackdeveloper/
 
