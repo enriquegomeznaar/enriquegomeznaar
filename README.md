@@ -3,7 +3,7 @@
 
 🎓 I’m Full Stack Web Developer
 
-💻 I’m currently studying at Henry
+💻 I studied in ACAMICA and soyHenry.
 
 🔭 I’m searching for my first job in the tech industry.
 
