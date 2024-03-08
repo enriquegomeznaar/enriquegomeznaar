@@ -3,11 +3,11 @@
 
 🎓 I’m Full Stack Web Developer
 
-💻 I studied in ACAMICA and soyHenry.
+💻 I studied in soy Henry.
 
 🔭 I’m searching for my first job in the tech industry.
 
 📫 How to reach me: enriquegomeznaar@gmail.com
 
-:eyes: Linkedin: https://www.linkedin.com/in/enrique-gomez-naar-fullstackdeveloper/
+:eyes: Linkedin: https://www.linkedin.com/in/enrique-gomez-naar-react-next/
 
